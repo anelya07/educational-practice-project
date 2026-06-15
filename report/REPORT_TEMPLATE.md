@@ -175,49 +175,49 @@ The performance of both models is compared and the best-performing model is sele
 
 **Dataset Overview:**
 
-![dataset_overview.png](../src/dataset_overview.png)
+![dataset_overview.png](../src/images/dataset_overview.png)
 
 **Linear Regression Results:**
 
-![lr_results.png](../src/lr_results.png)
+![lr_results.png](../src/images/lr_results.png)
 
 **Random Forest Results:**
 
-![rf_results.png](../src/rf_results.png)
+![rf_results.png](../src/images/rf_results.png)
 
 **Model Comparison:**
 
-![model_comparison.png](../src/model_comparison.png)
+![model_comparison.png](../src/images/model_comparison.png)
 
 **Sample Predictions:**
 
-![sample_predictions.png](../src/sample_predictions.png)
+![sample_predictions.png](../src/images/sample_predictions.png)
 
 **Generated Visualizations:**
 
 histograms.png:
 
-![Histograms](../src/histograms.png)
+![Histograms](../src/images/histograms.png)
 
 correlation_heatmap.png:
 
-![Correlation Heatmap](../src/correlation_heatmap.png)
+![Correlation Heatmap](../src/images/correlation_heatmap.png)
 
 house_price_distribution.png:
 
-![House Price Distribution](../src/house_price_distribution.png)
+![House Price Distribution](../src/images/house_price_distribution.png)
 
 lr_plot.png:
 
-![Linear Regression Plot](../src/lr_plot.png)
+![Linear Regression Plot](../src/images/lr_plot.png)
 
 rf_plot.png:
 
-![Random Forest Plot](../src/rf_plot.png)
+![Random Forest Plot](../src/images/rf_plot.png)
 
 feature_importance.png:
 
-![Feature Importance](../src/feature_importance.png)
+![Feature Importance](../src/images/feature_importance.png)
 
 ---
 
@@ -247,7 +247,7 @@ Random Forest achieved significantly better performance:
 - R² improved from 0.5970 to 0.8002
 
 This indicates that Random Forest explains approximately 80% of the variance in house prices and provides more accurate predictions.
-![conclusion.png](../src/conclusion.png)
+![conclusion.png](../src/images/conclusion.png)
 
 ---
 

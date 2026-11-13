@@ -18,8 +18,8 @@ Project topic: House price prediction
 
 | No. | Full Name | Contribution |
 |---|---|---|
-| 1 | Beissekina Aneliya | Data preprocessing, GitHub management, Model Training, Testing |
-| 2 | Iskakova Zhanet | Report, Data Visualization, EDA, Model evaluation |
+| 1 | Beissekina Aneliya | Data loading and initial exploration, data preprocessing (handling missing values, feature engineering, One-Hot Encoding, StandardScaler), train/test split, Linear Regression model training and evaluation, GitHub repository management, demo video |
+| 2 | Iskakova Zhanet | Exploratory Data Analysis (histograms, correlation heatmap, price distribution), Random Forest model training and evaluation, model comparison, feature importance analysis, sample predictions, report writing, demo video |
 
 ---
 
@@ -51,7 +51,7 @@ The project aims to determine which machine learning algorithm provides more acc
 
 ## 5. Tools and Technologies
 
-Development tools: GitHub, IntelliJ IDEA
+Development tools: GitHub, PyCharm/IntelliJ IDEA
 
 Programming language: Python
 
@@ -300,4 +300,4 @@ The project demonstrates the effectiveness of machine learning techniques for re
 
 GitHub repository link: https://github.com/aitu-educational-practice-2026/educational-practice-project-zhaneliya
 
-Demo video link:
+Demo video link: https://youtu.be/LcypLOkqb8o
